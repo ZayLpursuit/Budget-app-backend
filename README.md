@@ -138,8 +138,8 @@ For the front-end to be complete, the following must be true:
      - `name` - a string, the name of the transactions.
      - `amount` - a number, the amount of the expenditure/income.
      - `from` - a string, where this expense/income has come from.
-     - `category` - a string. As a bonus, this can be an options menu. (optional)
-  
+     - `category` - a string. As a bonus, this can be an options menu.
+
 1. The following is present on the "Show" page
      - `date` - a string, in any format.
      - `name` - a string, the name of the transactions.
