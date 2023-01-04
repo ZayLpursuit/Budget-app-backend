@@ -35,7 +35,7 @@ You must successfully build a minimum of 6 out of 9 features to pass this projec
 
 #### (3) New Page
 
-- I can click on a "New" button that takes me to the New page, with a form that lets me create a new transaction.
+- I can click on a "New" button/link fron the navbar that takes me to the New page, with a form that lets me create a new transaction.
 
 
 - Once a transaction is created, I am navigated back to the Index page
@@ -119,8 +119,8 @@ For the back-end to be complete, the following must be true:
 For the front-end to be complete, the following must be true:
 
 1. The application is deployed.
-1. The navigation bar allows the user to switch between the "Index" and "New" pages. Bonus: shows amount total. 
-1. The following is present on the "Index" page:
+2. The navigation bar allows the user to switch between the "Index" and "New" pages. Bonus: shows amount total. 
+3. The following is present on the "Index" page:
 
    - The navigation bar.
    - A list of transactions that have the following properties visible:
