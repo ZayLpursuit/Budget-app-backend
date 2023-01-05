@@ -133,7 +133,7 @@ For the front-end to be complete, the following must be true:
 1. The following is present on the "New" page:
    - The navigation bar.
    - The url will be `/transactions/new`.
-   - The form to create new transactions, which has four fields.
+   - The form to create new transactions, which has five fields.
      - `date` - a string, in any format.
      - `name` - a string, the name of the transactions.
      - `amount` - a number, the amount of the expenditure/income.
@@ -150,8 +150,8 @@ For the front-end to be complete, the following must be true:
 
 1. The following is present on the "Edit" page
    - The navigation bar.
-   - The url will be `/transactions/new`.
-   - The form to create new transactions, which has four fields.
+   - The url will be `/transactions/edit`.
+   - The form to edit an existing transaction, which has five fields.
      - `date` - a string, in any format.
      - `name` - a string, the name of the transactions.
      - `amount` - a number, the amount of the expenditure/income.
