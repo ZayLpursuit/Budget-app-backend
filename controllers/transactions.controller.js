@@ -26,7 +26,7 @@ transactions.get("/:transactionID",(req,res)=>{
     
     if (transactionsArray[transactionID]){
         res.json(transactionsArray[transactionID])
-        res.send(transactionsArray[transactionID])
+      
     }
     else{
         res.status(400).send("Not found")

@@ -1,4 +1,9 @@
 const app=require("./app")
+require("dotenv").config()
 
-app.listen(3007)
+console.log(process.env.PORT)
+
+app.listen(process.env.PORT,()=>{
+    console.log("now listening")
+})
 
